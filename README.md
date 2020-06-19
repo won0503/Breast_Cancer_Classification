@@ -1,6 +1,6 @@
 # Breast_Cancer_Classification
 
-**Breast cancer classification on Keras** (implementaion of CancerNet algorithm by Adrian Rosebrock on pyimageseach).
+**Breast cancer classification on Keras** (based on the implementaion of CancerNet algorithm by Adrian Rosebrock on pyimageseach).
 
 Breast cancer is the most common form of cancer in women, and invasive ductal carcinoma (IDC) is the most common form of breast cancer. Accurately identifying and categorizing breast cancer subtypes is an important clinical task, and automated methods can be used to save time and reduce error.
 
